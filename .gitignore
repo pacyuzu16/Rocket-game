@@ -1,3 +1,10 @@
-/build/
 /nbproject/private/
+/build/
 /dist/
+/target/
+*.class
+*.log
+*.iml
+*.jar
+*.war
+*.ear
