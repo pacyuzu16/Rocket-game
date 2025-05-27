@@ -79,10 +79,11 @@ In **Rocket Game**, you control a spaceship to shoot down enemy rockets while av
                                  Ensure JDK 8+ is installed.
 
 ### Compile the Code:
-use your terminal or cmd and navigate to Rocket-game/dist then use the following coomand                        
-                                 java -jar "ROCKET-GAME"
-
-                                 Or use an IDE to build the project.
+use your terminal or cmd and navigate to Rocket-game/dist then use the following coomand:                       
+                                 
+   
+                                java -jar "ROCKET-GAME"
+                                Or use an IDE(like Apache NetBeans) to build the project.
 
 ***Check Assets***: Confirm game/image/plane.png, game/image/background.png, and sound files exist in the correct directories.
 
