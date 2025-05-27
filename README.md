@@ -46,7 +46,7 @@
 ![Game Over](/images/4.png)  
 *Game over screen displaying final score.*
 
-![Quit](/images/4.png)  
+![Quit](/images/5.png)  
 *to quit or pause your game, press Q on your key board.*
 
 
@@ -149,7 +149,6 @@ Rocket-game/
 
 **Performance**: Heavy use of threads may lead to performance issues on low-end systems.
 
-## Contributing
 
 ## Contributing
 
